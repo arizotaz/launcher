@@ -1,5 +1,5 @@
 0.1.6 -\n
-\t\t- Linux Support
-\t\t- New Design
+\t\t- Linux Support\n
+\t\t- New Design\n
 \t\t- Better Cache
-\t\t- Save session after login
+\t\t- Save session after login\n
