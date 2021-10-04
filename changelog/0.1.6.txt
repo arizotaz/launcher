@@ -1,3 +1,5 @@
-<script>
-window.location.href = "Launcher.jar";
-</script>
+0.1.6 -/n
+\t\t- Linux Support
+\t\t- New Design
+\t\t- Better Cache
+\t\t- Save session after login
