@@ -1,0 +1,7 @@
+0.1.7 -\n
+/t/t- If Session Expires, you will now be prompted to login again/n/n/n
+0.1.6 -\n
+\t\t- Linux Support\n
+\t\t- New Design\n
+\t\t- Better Cache\n
+\t\t- Save session after login\n
