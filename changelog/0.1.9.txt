@@ -1,0 +1,7 @@
+0.1.9 -\n
+\t\t- Fixed issue with downloading and executing binary apps\n
+\t\t- Apps will now download and promt to play rather than immediately launching\n
+\t\t- All applications are now stored in the app folder rather than games, this means you must re-download all applications.
+\n\n
+0.1.8 -\n
+\t\t- Now supports Windows and MacOS binary applications\n
