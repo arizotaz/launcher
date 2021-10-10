@@ -1,0 +1,2 @@
+0.1.8 -\n
+\t\t- Now supports Windows and MacOS binary applications\n
