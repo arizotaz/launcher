@@ -1,0 +1,4 @@
+
+0.2.1 -\n
+\t\t- Application Banners will now center inside of the display box\n
+\t\t- Images loaded from URL are now asynchronous
