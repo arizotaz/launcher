@@ -8,7 +8,7 @@
   </information>
   <resources>
     <j2se version="1.6+" java-vm-args="-Dapple.laf.useScreenMenuBar=true -Dcom.apple.smallTabs=true "  href="http://java.sun.com/products/autodl/j2se"/>
-    <jar href="main.jar" size="285794" download="null" />
+    <jar href="main.jar" size="315470" download="null" />
   </resources>
   <jfx:javafx-desc  width="0" height="0" main-class="FX"  name="Arizotaz Launcher" />
   <update check="background"/>
