@@ -1,0 +1,5 @@
+0.2.2 -\n
+\t\t- Storage can now be viewed in the settings tab\n
+\t\t- Apps now store data in their application folder\n
+\t\t- Press F3 for debug information\n
+\t\t- Issue with login should now be fixed on windows\n
