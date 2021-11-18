@@ -1,0 +1,5 @@
+1.0 -\n
+\t\t- New design\n
+\t\t- Store page\n
+\t\t- Login now has text input boxes\n
+\t\t- Fixed Issue with Login on Windows\n
