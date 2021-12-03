@@ -1,0 +1,6 @@
+1.1.1 - \n
+\t\t- Fixed issue with login not allowing login after failed attempt\n
+\t\t- Text should now be more crisp
+1.1 - \n
+\t\t- Mouse\n
+\t\t- Update to Arizotaz Core 7
