@@ -1,0 +1,4 @@
+1.1.2 Hot Fix - \n
+\t\t- Window Manager\n
+\t\t- Update to Arizotaz Core 9\n
+\t\t- Fixed Issue with Downloading Applications\n
