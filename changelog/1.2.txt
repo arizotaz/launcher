@@ -1,0 +1,6 @@
+1.2 - \n
+\t\t- Updated to the Arizotaz Core 12\n
+\t\t- New Design\n
+\t\t- "Is this you" at login\n
+\t\t- Fixed issues with launching apps\n
+\t\t- First implementation of Analytical Data Collection\n
